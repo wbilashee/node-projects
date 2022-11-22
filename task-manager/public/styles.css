@@ -124,6 +124,7 @@ textarea {
   background: #f2f4f8;
   border-color: transparent;
   border: 1px solid #dbe0ea;
+  font-family: var(--body-font);
   border-radius: var(--border-radius);
 }
 
