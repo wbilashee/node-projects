@@ -6,8 +6,8 @@ const total_amount = 10998;
 const shipping_fee = 1099;
 
 var stripe = Stripe(
-    "pk_test_51JHWMTFt9kbcX6I46TLhfwZWsyQTNfVxYFWmpCrUo22jGjhI0Zkx6VwLChMgOgN6TOtreHpPWB7gT8qHgBd7CZmo009X8XKZRk", {
-    stripeAccount: "acct_1JHWMTFt9kbcX6I4",
+    "pk_test_51MAfiNBaY75D4B4O2es7rutZYJ2dnOaGIntxp8MF6WYHWQdQqs5WQlu4T3Eq3IX6dxpp2ddnZjvcXK5TcyeQiOzF00gjkF27F1", {
+    stripeAccount: "acct_1MAfiNBaY75D4B4O",
 });
 
 // Disable the button until we have Stripe set up on the page
